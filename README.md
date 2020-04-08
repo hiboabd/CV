@@ -2,9 +2,10 @@
 
 ## Profile
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 A full stack Ruby developer looking for her first job as a Junior Software Developer. 
+
 PLACEHOLDER
+
 PLACEHOLDER
 
 ## Skills
