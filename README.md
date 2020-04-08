@@ -58,4 +58,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Forensic psychology, Discovering the best food spots in London, Serial tv show binger, Everything and anything Frank Ocean.
