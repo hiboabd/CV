@@ -58,6 +58,10 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Forensic psychology, Discovering the best food spots in London (check out my food blog: [@foodconquest_](https://www.instagram.com/foodconquest_))
+Forensic psychology
 
-Serial tv show binger, Everything and anything Frank Ocean.
+Discovering the best food spots in London (check out my food blog: [@foodconquest_](https://www.instagram.com/foodconquest_))
+
+Serial tv show binger (favourite show: [Mindhunter](https://www.imdb.com/title/tt5290382/?ref_=nv_sr_srsg_0))
+
+Everything and anything Frank Ocean (favourite song: [Pink + White](https://www.youtube.com/watch?v=uzS3WG6__G4))
