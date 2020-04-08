@@ -20,7 +20,7 @@ Consider skills relevent to software development. Then consider your best skills
 
 #### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+[PLACEHOLDER] Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -29,32 +29,35 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2020 to Present)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University College London (September 2015 to June 2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Bsc Psychology, 1st class Honors
+- Achieved a 1st in the Computing for Psychologists module. 
+- Built a program using Python that conducts the Balloon Analogue Risk Task (BART) (a computerized measure of risk taking behaviour).
 
-#### Any other qualifications
+#### Code
 
-That in some arguable way make you a better software developer or well-rounded person
+[PLACEHOLDER: That in some arguable way make you a better software developer or well-rounded person]
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**YouthSight** (June 2018 to March 2020)    
+*Graduate Research Executive (June 2018 - July 2019)*
+*Research Executive (July 2019 - March 2020*
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+- [PLACEHOLDER] Any experience relevent to software development
+
+**Code First:Girls** (October 2019 to December 2019)   
+*Introduction to Web Development*  
 - Any experience relevent to software development
+- [ArtScape](https://roisinheron.github.io/Competition/))
 
 ## Hobbies
 
