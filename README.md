@@ -36,6 +36,13 @@ Consider skills relevent to software development. Then consider your best skills
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+#### Code First:Girls (October 2019 to December 2019)
+
+- Introduction to Web Development
+- [PLACEHOLDER]
+- [PLACEHOLDER]
+- [PLACEHOLDER]
+
 #### University College London (September 2015 to June 2018)
 
 - Bsc Psychology, 1st class Honors
@@ -53,11 +60,6 @@ Consider skills relevent to software development. Then consider your best skills
 *Research Executive (July 2019 - March 2020*
 
 - [PLACEHOLDER] Any experience relevent to software development
-
-**Code First:Girls** (October 2019 to December 2019)   
-*Introduction to Web Development*  
-- Any experience relevent to software development
-- [ArtScape](https://roisinheron.github.io/Competition/))
 
 ## Hobbies
 
