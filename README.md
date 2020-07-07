@@ -2,11 +2,15 @@
 
 ## Profile
 
-A full stack Ruby developer looking for her first job as a Junior Software Developer.
+I am an ambitious, former market researcher looking for a challenging, friendly and collaborative work environment to progress as a junior developer.
 
-PLACEHOLDER
+After graduating from University College London with a first class degree in Psychology, I spent almost two years working as a Market Researcher for a youth research agency.
 
-PLACEHOLDER
+I have recently completed training at [Makers Academy](https://makers.tech) (London's leading programming bootcamp), to make my dream of becoming a developer a reality.
+
+My immediate goal is to secure a position at a company where I can continue to grow and improve myself both personally and professionally. I enjoy challenges and look forward to opportunities where I will be able to assume more responsibilities.
+
+**Tech Skills**: Ruby, Sinatra, HTML, CSS, JavaScript, Node.js, Express, React, MongoDB, PostgreSQL
 
 ## Navigation
 
@@ -25,6 +29,16 @@ PLACEHOLDER
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+
+
+Skills
+Problem solving
+Teamwork
+Consultancy
+Awareness of business needs
+Interpersonal skills - written and oral communication skills
+Presenting skills
+Analytical skills
 
 #### This Skill
 
