@@ -1,16 +1,23 @@
-<div align="center">
 ## Hibo Abdilaahi
 
+<div align="center">
 ## Navigation
 
-[![profile](https://img.shields.io/badge/-Projects-blue?style=for-the-badge)](#profile)
-[![projects](https://img.shields.io/badge/-Projects-blue?style=for-the-badge)](#projects)
+[![profile](https://img.shields.io/badge/-Projects-9cf?style=for-the-badge)](#profile)
+[![projects](https://img.shields.io/badge/-Projects-9cf?style=for-the-badge)](#projects)
 [![skills](https://img.shields.io/badge/-Skills-blue?style=for-the-badge)](#skills)
 [![education](https://img.shields.io/badge/-Education-blue?style=for-the-badge)](#education)
 [![experience](https://img.shields.io/badge/-Experience-blue?style=for-the-badge)](#experience)
 [![hobbies](https://img.shields.io/badge/-Hobbies_and_interests-blue?style=for-the-badge)](#hobbies)
 
 ## Where you can find me
+
+[![Twitter Profile]](https://twitter.com/hturnbull)
+[![LinkedIn Profile]](https://www.linkedin.com/in/hibo-abdilaahi-68405017b/)
+[![Dev.to]](https://dev.to/hiboabd)
+[![Email]](mailto:hiboabdilaahi@gmail.com)
+[![CodeWars Profile]](https://www.codewars.com/users/hiboabd)
+[![GitHub Profile]](https://github.com/hiboabd)
 
 </div>
 
@@ -104,3 +111,13 @@ Analytical skills
 - Blogging about my tech journey ([Twitter](https://twitter.com/Hibocodes)/[Dev.to](https://dev.to/hiboabd))
 - Discovering the best food spots in London ([@foodconquest_](https://www.instagram.com/foodconquest_))
 - Serial tv show binger (favourite show: [Mindhunter](https://www.imdb.com/title/tt5290382/?ref_=nv_sr_srsg_0))
+
+
+<!-- Badge Links -->
+
+[twitter profile]: https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
+[medium profile]: https://img.shields.io/badge/Medium_blog-%2312100E?style=for-the-badge&logo=medium&logoColor=white
+[email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
+[codewars profile]: https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
+[github profile]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
