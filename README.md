@@ -1,8 +1,8 @@
 ## Hibo Abdilaahi
 
-<div align="center">
-
 ## Navigation
+
+<div align="center">
 
 [![profile](https://img.shields.io/badge/-Projects-red?style=for-the-badge)](#profile)
 [![skills](https://img.shields.io/badge/-Skills-red?style=for-the-badge)](#skills)
@@ -10,7 +10,11 @@
 [![experience](https://img.shields.io/badge/-Experience-red?style=for-the-badge)](#experience)
 [![hobbies](https://img.shields.io/badge/-Hobbies_and_interests-red?style=for-the-badge)](#hobbies)
 
+</div>
+
 ## Where you can find me
+
+<div align="center">
 
 [![Twitter Profile]](https://twitter.com/hturnbull)
 [![LinkedIn Profile]](https://www.linkedin.com/in/hibo-abdilaahi-68405017b/)
