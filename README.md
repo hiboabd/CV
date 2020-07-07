@@ -1,5 +1,16 @@
 ## Hibo Abdilaahi
 
+## Navigation
+
+[![profile](https://img.shields.io/badge/-Projects-blue?style=for-the-badge)](#profile)
+[![projects](https://img.shields.io/badge/-Projects-blue?style=for-the-badge)](#projects)
+[![skills](https://img.shields.io/badge/-Skills-blue?style=for-the-badge)](#skills)
+[![education](https://img.shields.io/badge/-Education-blue?style=for-the-badge)](#education)
+[![experience](https://img.shields.io/badge/-Experience-blue?style=for-the-badge)](#experience)
+[![hobbies](https://img.shields.io/badge/-Hobbies_and_interests-blue?style=for-the-badge)](#hobbies)
+
+## Where you can find me
+
 ## Profile
 
 I am an ambitious, former market researcher looking for a challenging, friendly and collaborative work environment to progress as a junior developer.
@@ -11,10 +22,6 @@ I have recently completed training at [Makers Academy](https://makers.tech) (Lon
 My immediate goal is to secure a position at a company where I can continue to grow and improve myself both personally and professionally. I enjoy challenges and look forward to opportunities where I will be able to assume more responsibilities.
 
 **Tech Skills**: Ruby, Sinatra, HTML, CSS, JavaScript, Node.js, Express, React, MongoDB, PostgreSQL
-
-## Navigation
-
-## Where you can find me
 
 ## Projects
 
