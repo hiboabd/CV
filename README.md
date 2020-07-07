@@ -1,6 +1,7 @@
 ## Hibo Abdilaahi
 
 <div align="center">
+
 ## Navigation
 
 [![profile](https://img.shields.io/badge/-Projects-red?style=for-the-badge)](#profile)
