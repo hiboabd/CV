@@ -8,7 +8,7 @@
 [![skills](https://img.shields.io/badge/-Skills-red?style=for-the-badge)](#skills)
 [![education](https://img.shields.io/badge/-Education-red?style=for-the-badge)](#education)
 [![experience](https://img.shields.io/badge/-Experience-red?style=for-the-badge)](#experience)
-[![hobbies](https://img.shields.io/badge/-Hobbies_and_interests-red?style=for-the-badge)](#hobbies)
+[![hobbies](https://img.shields.io/badge/-Hobbies-red?style=for-the-badge)](#hobbies)
 
 </div>
 
@@ -40,40 +40,56 @@ My immediate goal is to secure a position at a company where I can continue to g
 
 | Project         | Description              | Tech Stack         | How to access  |
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Run Boris, Run! | A 2D Platformer game inspired by lockdown - help Boris Johnson keep his r rating below 1 and successfully socially distance from passerby's | HTML5, CSS, JavaScript, React, Jest, Travis CI, Netlify |[Deployed website](https://run-boris-run.netlify.app)/[GitHub Repo](https://github.com/edmond-b/Covid_Game)|
-| Acebook         | Redesigned Facebook clone built as part of the week 8-9 Makers engineering project | MongoDB, Express, React, Nodejs, Cypress, Jasmine       |[Github Repo](https://github.com/Joanneyoung01/Node4Code)|
-| MakersBnb       | Redesigned AirBnb clone built as part of the week 6 Makers group project week | Ruby, Sinatra, PostgreSQL, Capybara, RSpec              |[Github Repo](https://github.com/Tracht/MakersBnb)|
-| Daily Guardian  | A single page web app, using XHR objects to consume the Guardian and Aylien API's, that summarises the daily top 10 Guardian articles. Unit tested using my own testing framework | JavaScript, HTML, CSS, Own testing framework |[GitHub Repo](https://github.com/hiboabd/daily_guardian)|
+| Run Boris, Run! | A 2D Platformer game inspired by lockdown - help Boris Johnson keep his r rating below 1 and successfully socially distance from people passing by. | HTML5, CSS, JavaScript, React, Jest, Travis CI, Netlify |[Deployed website](https://run-boris-run.netlify.app)/[GitHub Repo](https://github.com/edmond-b/Covid_Game)|
+| Acebook         | Redesigned Facebook clone built as part of the week 8-9 Makers engineering project. | MongoDB, Express, React, Nodejs, Cypress, Jasmine       |[Github Repo](https://github.com/Joanneyoung01/Node4Code)|
+| MakersBnb       | Redesigned AirBnb clone built as part of the week 6 Makers group project week. | Ruby, Sinatra, PostgreSQL, Capybara, RSpec              |[Github Repo](https://github.com/Tracht/MakersBnb)|
+| Daily Guardian  | A single page web app, using XHR objects to consume the Guardian and Aylien API's, that summarises the daily top 10 Guardian articles. Unit tested using my own testing framework | JavaScript, HTML, CSS, Own testing framework. |[GitHub Repo](https://github.com/hiboabd/daily_guardian)|
 
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Technical skills
+
+| Purpose                      | Technology         |
+| ---------------------------- | ------------------ |
+| Languages                    | Javascript, Ruby   |
+| Front end frameworks         | React              |
+| API frameworks               | Express            |
+| Databases                    | MongoDB, PostgreSQL |
+| Unit testing frameworks      | Rspec, Jasmine, Jest |
+| Front end testing frameworks | Cypress            |
+| Code Coverage                | Jest               |
+| CI/CD                        | Travis             |
+| Hosting                      | Netlify, Heroku    |
+| Styling                      | CSS                |
 
 
-Skills
-Problem solving
-Teamwork
-Consultancy
-Awareness of business needs
-Interpersonal skills - written and oral communication skills
-Presenting skills
-Analytical skills
+#### Non-technical skills
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-[PLACEHOLDER] Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Project Management
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Teamwork
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Organisation and attention to detail
+
+- During my time at YouthSight, I created numerous training documents concerning research processes, data analysis, and more to ensure best practises were recorded and there was a central reference point for all employees.
+- As my GitHub projects will demonstrate, I am a meticulous planner who thoroughly diagrams and designs every part of a project to make sure the
+
+#### Presenting and communicating
+
+- I delivered debrief workshops clients such as Unite Students and TicketMaster, where 
+- I also delivered pitches to the BBC and NCS, where both projects were subsequently commissioned. In the case of NCS, the project was commissioned for 3 years.
+- I was trusted to deliver ebooks for YouthSight. For example, the [How Gen Z will change the world](https://www.youthsight.com/blog/how-gen-z-will-change-the-world-vol-one) ebook series by YouthSight was collated and designed by me.
 
 ## Education
 
@@ -87,9 +103,8 @@ Analytical skills
 #### Code First:Girls (October 2019 to December 2019)
 
 - Completed the [Introduction to Web Development](https://codefirstgirls.org.uk/learners/intro-to-web-development/) 8 week part time course.
-- [PLACEHOLDER]
-- [PLACEHOLDER]
-- [PLACEHOLDER]
+- Learnt the fundamentals skills of front end development (HTML, CSS & JavaScript).
+- Built [ArtScape](https://github.com/roisinheron/Competition), a website that enables users to discover art events happening near them.
 
 #### University College London (September 2015 to June 2018)
 
@@ -103,17 +118,23 @@ Analytical skills
 
 ## Experience
 
-**YouthSight** (June 2018 to March 2020)    
-*Graduate Research Executive (June 2018 - July 2019)*
-*Research Executive (July 2019 - March 2020)*
+**YouthSight**     
+  - *Graduate Research Executive (June 2018 - July 2019)*
+  - *Research Executive (July 2019 - March 2020)*
 
-- [PLACEHOLDER] Any experience relevant to software development
+- Delivered campaign evaluations and ran online communities for clients including BBC, Tinder, Unite Students and NCS.
+- Led the management of the subscription tracker, State of the Youth Nation. This involved managing quantitative fieldwork, SnapMe videos, proofing and publishing spotlight reports and pulling together the latest insights for our quarterly briefings.
+- Designed reports and ebooks delivering cutting edge research on Gen Z.
+    - Examples: ['Gen Z: Exile on Mainstream?'](https://ipa.co.uk/knowledge/publications-reports/gen-z-exile-on-mainstream) by the Institute of Practisioners of Advertising.
+    - [How Gen Z will change the world](https://www.youthsight.com/blog/how-gen-z-will-change-the-world-vol-one) ebook series by YouthSight.
 
 ## Hobbies
 
+In my spare time, you can find me...
+
 - Blogging about my tech journey ([Twitter](https://twitter.com/Hibocodes)/[Dev.to](https://dev.to/hiboabd))
 - Discovering the best food spots in London ([@foodconquest_](https://www.instagram.com/foodconquest_))
-- Serial tv show binger (favourite show: [Mindhunter](https://www.imdb.com/title/tt5290382/?ref_=nv_sr_srsg_0))
+- Binge watching a new tv show I'm obsessed with (like [Mindhunter](https://www.imdb.com/title/tt5290382/?ref_=nv_sr_srsg_0))
 
 
 <!-- Badge Links -->
