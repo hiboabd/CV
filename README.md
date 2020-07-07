@@ -1,3 +1,4 @@
+<div align="center">
 ## Hibo Abdilaahi
 
 ## Navigation
@@ -10,6 +11,8 @@
 [![hobbies](https://img.shields.io/badge/-Hobbies_and_interests-blue?style=for-the-badge)](#hobbies)
 
 ## Where you can find me
+
+</div>
 
 ## Profile
 
