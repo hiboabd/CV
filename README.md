@@ -78,6 +78,9 @@ My immediate goal is to secure a position at a company where I can continue to g
 - During my time at YouthSight, I created numerous training documents concerning research processes, data analysis, and more to ensure best practises were recorded and there was a central reference point for all employees.
 - As my GitHub projects will demonstrate, I am a meticulous planner who diagrams and designs project to make sure the
     - Example: [Bank Tech Test](https://github.com/hiboabd/BankTechTest)
+- My methodical approach to programming has also been noted in technical reviews:
+
+  ` You were familiar with the common errors caused by failing tests. You checked if you saved your file, read the error message, checked for typos, tried changing the order of the if-statements and had a look at the new output. You used the IRB to verify the behaviour of functions such as the split function. You used prints to get some visibility in your code. This was all nicely methodical and a good debugging process. `
 
 #### Presenting and communicating
 
