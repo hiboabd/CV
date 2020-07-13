@@ -40,28 +40,28 @@ My immediate goal is to secure a position at a company where I can continue to g
 
 | Project         | Description              | Tech Stack         | How to access  |
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Run Boris, Run! | A 2D Platformer game inspired by lockdown - help Boris Johnson keep his r rating below 1 and successfully socially distance from people passing by. | HTML5, CSS, JavaScript, React, Jest, Travis CI, Netlify |[Deployed website](https://run-boris-run.netlify.app)/[GitHub Repo](https://github.com/edmond-b/Covid_Game)|
-| Acebook         | Redesigned Facebook clone built as part of the week 8-9 Makers engineering project. | MongoDB, Express, React, Nodejs, Cypress, Jasmine       |[Github Repo](https://github.com/Joanneyoung01/Node4Code)|
-| MakersBnb       | Redesigned AirBnb clone built as part of the week 6 Makers group project week. | Ruby, Sinatra, PostgreSQL, Capybara, RSpec              |[Github Repo](https://github.com/Tracht/MakersBnb)|
-| Daily Guardian  | A single page web app, using XHR objects to consume the Guardian and Aylien API's, that summarises the daily top 10 Guardian articles. Unit tested using my own testing framework | JavaScript, HTML, CSS, Own testing framework. |[GitHub Repo](https://github.com/hiboabd/daily_guardian)|
+| **Run Boris, Run!** | A 2D Platformer game inspired by lockdown - help Boris Johnson keep his r rating below 1 and successfully socially distance from people passing by. | HTML5, CSS, JavaScript, React, Jest, Travis CI, Netlify |[Deployed website](https://run-boris-run.netlify.app)/[GitHub Repo](https://github.com/edmond-b/Covid_Game)|
+| **Acebook**         | Redesigned Facebook clone built as part of the week 8-9 Makers engineering project. | MongoDB, Express, React, Nodejs, Cypress, Jasmine       |[Github Repo](https://github.com/Joanneyoung01/Node4Code)|
+| **MakersBnb**       | Redesigned AirBnb clone built as part of the week 6 Makers group project week. | Ruby, Sinatra, PostgreSQL, Capybara, RSpec              |[Github Repo](https://github.com/Tracht/MakersBnb)|
+| **Daily Guardian**  | A single page web app, using XHR objects to consume the Guardian and Aylien API's, that summarises the daily top 10 Guardian articles. Unit tested using my own testing framework | JavaScript, HTML, CSS, Own testing framework. |[GitHub Repo](https://github.com/hiboabd/daily_guardian)|
 
 
 ## Skills
 
 #### Technical skills
 
-| Purpose                      | Technology         |
+| **Purpose**                      | **Technology**         |
 | ---------------------------- | ------------------ |
-| Languages                    | Javascript, Ruby   |
-| Front end frameworks         | React              |
-| API frameworks               | Express            |
-| Databases                    | MongoDB, PostgreSQL |
-| Unit testing frameworks      | Rspec, Jasmine, Jest |
-| Front end testing frameworks | Cypress            |
-| Code Coverage                | Jest               |
-| CI/CD                        | Travis             |
-| Hosting                      | Netlify, Heroku    |
-| Styling                      | CSS                |
+| **Languages**                    | Javascript, Ruby   |
+| **Front end frameworks**         | React              |
+| **API frameworks**               | Express            |
+| **Databases**                    | MongoDB, PostgreSQL |
+| **Unit testing frameworks**      | Rspec, Jasmine, Jest |
+| **Front end testing frameworks** | Cypress            |
+| **Code Coverage**                | Jest               |
+| **CI/CD**                        | Travis             |
+| **Hosting**                      | Netlify, Heroku    |
+| **Styling**                      | CSS                |
 
 
 #### Non-technical skills
