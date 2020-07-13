@@ -80,16 +80,16 @@ My immediate goal is to secure a position at a company where I can continue to g
     - Example: [Bank Tech Test](https://github.com/hiboabd/BankTechTest)
 - My methodical approach to programming has also been noted in technical reviews:
 
-  ` You were familiar with the common errors caused by failing tests. You checked if you saved your file, read the error message, checked for typos, tried changing the order of the if-statements and had a look at the new output. You used the IRB to verify the behaviour of functions such as the split function. You used prints to get some visibility in your code. This was all nicely methodical and a good debugging process. `
+  > You were familiar with the common errors caused by failing tests. You checked if you saved your file, read the error message, checked for typos, tried changing the order of the if-statements and had a look at the new output. You used the IRB to verify the behaviour of functions such as the split function. You used prints to get some visibility in your code. This was all nicely methodical and a good debugging process.
 
 #### Presenting and communicating
 
 - Below is some feedback I've received on my communication skills following a technical review.
 
-    `...your verbalisation really underscores your understanding and reasoning really well`
+    >...your verbalisation really underscores your understanding and reasoning really well
 
-    `You walked me through the logic of your program before running it in Rspec and gave me insights into the different ways of
-    approaching the program that you were considering...`
+    >You walked me through the logic of your program before running it in Rspec and gave me insights into the different ways of
+    approaching the program that you were considering
 
 - I designed ebooks that contributed to the growth of conversions on the YouthSight eNewsletter. The [How Gen Z will change the world](https://www.youthsight.com/blog/how-gen-z-will-change-the-world-vol-one) ebook series I designed was so popular that it led to a webinar with approximately 100 attendees.
 - I also delivered pitches to the BBC and NCS, where both projects were subsequently commissioned. In the case of NCS, the project was repeat commissioned for 3 years.
