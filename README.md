@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![Twitter Profile]](https://twitter.com/hturnbull)
+[![Twitter Profile]](https://twitter.com/Hibocodes)
 [![LinkedIn Profile]](https://www.linkedin.com/in/hibo-abdilaahi-68405017b/)
 [![Email]](mailto:hiboabdilaahi@gmail.com)
 [![CodeWars Profile]](https://www.codewars.com/users/hiboabd)
