@@ -48,7 +48,7 @@ My immediate goal is to secure a position at a company where I can continue to g
 
 ## Skills
 
-#### Technical skills
+## Technical skills
 
 | **Purpose**                      | **Technology**         |
 | ---------------------------- | ------------------ |
@@ -64,7 +64,7 @@ My immediate goal is to secure a position at a company where I can continue to g
 | **Styling**                      | CSS                |
 
 
-#### Non-technical skills
+## Non-technical skills
 
 #### Project Management
 
