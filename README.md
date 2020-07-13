@@ -4,7 +4,8 @@
 
 <div align="center">
 
-[![profile](https://img.shields.io/badge/-Projects-red?style=for-the-badge)](#profile)
+[![profile](https://img.shields.io/badge/-Profile-red?style=for-the-badge)](#profile)
+[![projects](https://img.shields.io/badge/-Projects-red?style=for-the-badge)](#projects)
 [![skills](https://img.shields.io/badge/-Skills-red?style=for-the-badge)](#skills)
 [![education](https://img.shields.io/badge/-Education-red?style=for-the-badge)](#education)
 [![experience](https://img.shields.io/badge/-Experience-red?style=for-the-badge)](#experience)
