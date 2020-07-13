@@ -68,28 +68,35 @@ My immediate goal is to secure a position at a company where I can continue to g
 
 #### Project Management
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Teamwork
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- As a research executive at YouthSight, I was entrusted to manage a number of projects including:
+    - A longitudinal research tracker that tracked the views of Generation Z on a range of topics.
+    - A campaign evaluation looking into perceptions of a new brand re-design
+- I created a scheduling document for all projects in our team which improved our ability to track the status of active projects and potential prospects as well as delegate responsibilities amongst team members.
 
 #### Organisation and attention to detail
 
 - During my time at YouthSight, I created numerous training documents concerning research processes, data analysis, and more to ensure best practises were recorded and there was a central reference point for all employees.
-- As my GitHub projects will demonstrate, I am a meticulous planner who thoroughly diagrams and designs every part of a project to make sure the
+- As my GitHub projects will demonstrate, I am a meticulous planner who diagrams and designs project to make sure the
+    - Example: [Bank Tech Test](https://github.com/hiboabd/BankTechTest)
 
 #### Presenting and communicating
 
-- I delivered debrief workshops clients such as Unite Students and TicketMaster, where 
-- I also delivered pitches to the BBC and NCS, where both projects were subsequently commissioned. In the case of NCS, the project was commissioned for 3 years.
-- I was trusted to deliver ebooks for YouthSight. For example, the [How Gen Z will change the world](https://www.youthsight.com/blog/how-gen-z-will-change-the-world-vol-one) ebook series by YouthSight was collated and designed by me.
+- Below is some feedback I've received on my communication skills following a technical review.
+
+    `...your verbalisation really underscores your understanding and reasoning really well`
+
+    `You walked me through the logic of your program before running it in Rspec and gave me insights into the different ways of
+    approaching the program that you were considering...`
+
+- I designed ebooks that contributed to the growth of conversions on the YouthSight eNewsletter. The [How Gen Z will change the world](https://www.youthsight.com/blog/how-gen-z-will-change-the-world-vol-one) ebook series I designed was so popular that it led to a webinar with approximately 100 attendees.
+- I also delivered pitches to the BBC and NCS, where both projects were subsequently commissioned. In the case of NCS, the project was repeat commissioned for 3 years.
+
+#### Teamwork and interpersonal skills
+
+- I thoroughly enjoy working with others and pair programming was a significant component of the Makers Academy program where I paired with a colleague on a challenge every afternoon.  
+- I am careful to curate a positive team atmosphere by being an effective communicator and listener, setting and achieving clear goals, being open minded to others ideas, being attentive and supporting my team members as much as possible.
+  - [I documented my personal do's and dont's of pair programming here.](https://github.com/hiboabd/makers_learning_journey/blob/master/weekly-objectives/week-one/pair_programming.md)
+
 
 ## Education
 
@@ -112,19 +119,17 @@ My immediate goal is to secure a position at a company where I can continue to g
 - Achieved a 1st in the Computing for Psychologists module.
 - Built a program using Python that conducts the Balloon Analogue Risk Task (BART) (a computerised measure of risk taking behaviour).
 
-#### Code
-
-[PLACEHOLDER: That in some arguable way make you a better software developer or well-rounded person]
-
 ## Experience
 
-**YouthSight**     
-  - *Graduate Research Executive (June 2018 - July 2019)*
-  - *Research Executive (July 2019 - March 2020)*
+#### YouthSight
+
+*Graduate Research Executive (June 2018 - July 2019)*
+*Research Executive (July 2019 - March 2020)*
 
 - Delivered campaign evaluations and ran online communities for clients including BBC, Tinder, Unite Students and NCS.
+- Provided actionable recommendations to help solve business problems.
 - Led the management of the subscription tracker, State of the Youth Nation. This involved managing quantitative fieldwork, SnapMe videos, proofing and publishing spotlight reports and pulling together the latest insights for our quarterly briefings.
-- Designed reports and ebooks delivering cutting edge research on Gen Z.
+- Designed reports and ebooks delivering cutting edge research on Generation Z.
     - Examples: ['Gen Z: Exile on Mainstream?'](https://ipa.co.uk/knowledge/publications-reports/gen-z-exile-on-mainstream) by the Institute of Practisioners of Advertising.
     - [How Gen Z will change the world](https://www.youthsight.com/blog/how-gen-z-will-change-the-world-vol-one) ebook series by YouthSight.
 
