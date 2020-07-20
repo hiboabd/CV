@@ -79,9 +79,9 @@ As a research executive at YouthSight, I was entrusted to manage a number of pro
 <ul>
     <li> During my time at YouthSight, I created numerous training documents concerning research processes, data analysis, and more to ensure best practises were recorded and there was a central reference point for all employees. </li>
     <li> As my GitHub projects will demonstrate, I am a meticulous planner who diagrams and designs her project to make sure the </li>
-        <li> Example: [Bank Tech Test](https://github.com/hiboabd/BankTechTest) </li>
+    <li> Example: <a href="https://github.com/hiboabd/BankTechTest">Bank Tech Test</a></li>
     <li> My methodical approach to programming has also been noted in technical reviews: </li>
-        <li> > You were familiar with the common errors caused by failing tests. You checked if you saved your file, read the error message, checked for typos, tried changing the order of the if-statements and had a look at the new output. You used the IRB to verify the behaviour of functions such as the split function. You used prints to get some visibility in your code. This was all nicely methodical and a good debugging process. </li> 
+        <li> <i><q>You were familiar with the common errors caused by failing tests. You checked if you saved your file, read the error message, checked for         typos, tried changing the order of the if-statements and had a look at the new output. You used the IRB to verify the behaviour of functions such as the split function. You used prints to get some visibility in your code. This was all nicely methodical and a good debugging process.</q></i></li> 
 </ul>
 </p>
 </details>
@@ -91,11 +91,11 @@ As a research executive at YouthSight, I was entrusted to manage a number of pro
 <details><summary>Click to read</summary>
 <p>
 <ul>
-    <li> Below is some feedback I've received on my communication skills following a technical review.</li>
-    <li> >...your verbalisation really underscores your understanding and reasoning really well </li>
-    <li>  >You walked me through the logic of your program before running it in Rspec and gave me insights into the different ways of
-    approaching the program that you were considering </li>
-    <li> I designed ebooks that contributed to the growth of conversions on the YouthSight eNewsletter. The [How Gen Z will change the world](https://www.youthsight.com/blog/how-gen-z-will-change-the-world-vol-one) ebook series I designed was so popular that it led to a webinar with approximately 100 attendees. </li>
+    <li> I pride myself on being a clear communicator. Below is some feedback I've received on my communication skills following a technical review.</li>
+    <li> <i><q>Your verbalisation really underscores your understanding and reasoning really well</q></i> </li>
+    <li> <i><q>You walked me through the logic of your program before running it in Rspec and gave me insights into the different ways of
+        approaching the program that you were considering</q></i> </li>
+    <li> I designed ebooks that contributed to the growth of conversions on the YouthSight eNewsletter. The <a href="https://www.youthsight.com/blog/how-gen-z-will-change-the-world-vol-one">How Gen Z will change the world</a> ebook series I designed was so popular that it led to a webinar with approximately 100 attendees. </li>
     <li> I also delivered pitches to the BBC and NCS, where both projects were subsequently commissioned. In the case of NCS, the project was repeat commissioned for 3 years.</li> 
 </ul>
 </p>
@@ -108,7 +108,7 @@ As a research executive at YouthSight, I was entrusted to manage a number of pro
 <ul>
     <li> I thoroughly enjoy working with others and pair programming was a significant component of the Makers Academy program where I paired with a colleague on a challenge every afternoon. </li>
     <li> I am careful to curate a positive team atmosphere by being an effective communicator and listener, setting and achieving clear goals, being open minded to others ideas, being attentive and supporting my team members as much as possible. </li>
-    <li> [I documented my personal do's and dont's of pair programming here.](https://github.com/hiboabd/makers_learning_journey/blob/master/weekly-objectives/week-one/pair_programming.md) </li>
+    <li> I documented my personal do's and dont's of pair programming <a href="https://github.com/hiboabd/makers_learning_journey/blob/master/weekly-objectives/week-one/pair_programming.md">here.</a></li>
 </ul>
 </p>
 </details>
