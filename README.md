@@ -51,18 +51,10 @@ My immediate goal is to secure a position at a company where I can continue to g
 
 ## Technical skills
 
-| **Purpose**                      | **Technology**         |
-| ---------------------------- | ------------------ |
-| **Languages**                    | Javascript, Ruby   |
-| **Front end frameworks**         | React              |
-| **API frameworks**               | Express            |
-| **Databases**                    | MongoDB, PostgreSQL |
-| **Unit testing frameworks**      | Rspec, Jasmine, Jest |
-| **Front end testing frameworks** | Cypress            |
-| **Code Coverage**                | Jest               |
-| **CI/CD**                        | Travis             |
-| **Hosting**                      | Netlify, Heroku    |
-| **Styling**                      | CSS                |
+| **Purpose** | **Languages** | **Front end frameworks** | **API frameworks** |**Databases** |**Unit testing frameworks** |**Front end testing frameworks** |**Code Coverage** | **CI/CD** |**Hosting** |**Styling** |
+| ---------------------------- | ------------------ |------------------ |------------------ |------------------ |------------------ |------------------ |------------------ |------------------ |------------------ |------------------ |
+|**Technology**| Javascript, Ruby   | React | Express |MongoDB, PostgreSQL | Rspec, Jasmine, Jest | Cypress | Jest, Rubocop | Travis | Netlify, Heroku | CSS |
+
 
 
 ## Non-technical skills
