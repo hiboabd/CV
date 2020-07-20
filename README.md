@@ -117,10 +117,12 @@ As a research executive at YouthSight, I was entrusted to manage a number of pro
 
 #### Makers Academy (March 2020 to July 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way
+- Object oriented programming & software design
+- Full stack web development
+- Curiosity and a hungry passion for code
+- Independent learner and problem-solver
+- Experience with MVC framework patterns 
 
 #### Code First:Girls (October 2019 to December 2019)
 
