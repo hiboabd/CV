@@ -61,38 +61,57 @@ My immediate goal is to secure a position at a company where I can continue to g
 
 #### Project Management
 
-- As a research executive at YouthSight, I was entrusted to manage a number of projects including:
-    - A longitudinal research tracker that tracked the views of Generation Z on a range of topics.
-    - A campaign evaluation looking into perceptions of a new brand re-design
-- I created a scheduling document for all projects in our team which improved our ability to track the status of active projects and potential prospects as well as delegate responsibilities amongst team members.
+<details><summary>Click to read</summary>
+<p>
+As a research executive at YouthSight, I was entrusted to manage a number of projects including:
+<ul>
+    <li> A longitudinal research tracker that tracked the views of Generation Z on a range of topics. </li>
+    <li> A campaign evaluation looking into perceptions of a new brand re-design. </li>
+    <li> I created a scheduling document for all projects in our team which improved our ability to track the status of active projects and potential prospects as      well as delegate responsibilities amongst team members. </li>
+</ul>
+</p>
+</details>
 
 #### Organisation and attention to detail
 
-- During my time at YouthSight, I created numerous training documents concerning research processes, data analysis, and more to ensure best practises were recorded and there was a central reference point for all employees.
-- As my GitHub projects will demonstrate, I am a meticulous planner who diagrams and designs project to make sure the
-    - Example: [Bank Tech Test](https://github.com/hiboabd/BankTechTest)
-- My methodical approach to programming has also been noted in technical reviews:
-
-  > You were familiar with the common errors caused by failing tests. You checked if you saved your file, read the error message, checked for typos, tried changing the order of the if-statements and had a look at the new output. You used the IRB to verify the behaviour of functions such as the split function. You used prints to get some visibility in your code. This was all nicely methodical and a good debugging process.
+<details><summary>Click to read</summary>
+<p>
+<ul>
+    <li> During my time at YouthSight, I created numerous training documents concerning research processes, data analysis, and more to ensure best practises were recorded and there was a central reference point for all employees. </li>
+    <li> As my GitHub projects will demonstrate, I am a meticulous planner who diagrams and designs her project to make sure the </li>
+        <li> Example: [Bank Tech Test](https://github.com/hiboabd/BankTechTest) </li>
+    <li> My methodical approach to programming has also been noted in technical reviews: </li>
+        <li> > You were familiar with the common errors caused by failing tests. You checked if you saved your file, read the error message, checked for typos, tried changing the order of the if-statements and had a look at the new output. You used the IRB to verify the behaviour of functions such as the split function. You used prints to get some visibility in your code. This was all nicely methodical and a good debugging process. </li> 
+</ul>
+</p>
+</details>
 
 #### Presenting and communicating
 
-- Below is some feedback I've received on my communication skills following a technical review.
-
-    >...your verbalisation really underscores your understanding and reasoning really well
-
-    >You walked me through the logic of your program before running it in Rspec and gave me insights into the different ways of
-    approaching the program that you were considering
-
-- I designed ebooks that contributed to the growth of conversions on the YouthSight eNewsletter. The [How Gen Z will change the world](https://www.youthsight.com/blog/how-gen-z-will-change-the-world-vol-one) ebook series I designed was so popular that it led to a webinar with approximately 100 attendees.
-- I also delivered pitches to the BBC and NCS, where both projects were subsequently commissioned. In the case of NCS, the project was repeat commissioned for 3 years.
+<details><summary>Click to read</summary>
+<p>
+<ul>
+    <li> Below is some feedback I've received on my communication skills following a technical review.</li>
+    <li> >...your verbalisation really underscores your understanding and reasoning really well </li>
+    <li>  >You walked me through the logic of your program before running it in Rspec and gave me insights into the different ways of
+    approaching the program that you were considering </li>
+    <li> I designed ebooks that contributed to the growth of conversions on the YouthSight eNewsletter. The [How Gen Z will change the world](https://www.youthsight.com/blog/how-gen-z-will-change-the-world-vol-one) ebook series I designed was so popular that it led to a webinar with approximately 100 attendees. </li>
+    <li> I also delivered pitches to the BBC and NCS, where both projects were subsequently commissioned. In the case of NCS, the project was repeat commissioned for 3 years.</li> 
+</ul>
+</p>
+</details>
 
 #### Teamwork and interpersonal skills
 
-- I thoroughly enjoy working with others and pair programming was a significant component of the Makers Academy program where I paired with a colleague on a challenge every afternoon.  
-- I am careful to curate a positive team atmosphere by being an effective communicator and listener, setting and achieving clear goals, being open minded to others ideas, being attentive and supporting my team members as much as possible.
-  - [I documented my personal do's and dont's of pair programming here.](https://github.com/hiboabd/makers_learning_journey/blob/master/weekly-objectives/week-one/pair_programming.md)
-
+<details><summary>Click to read</summary>
+<p>
+<ul>
+    <li> I thoroughly enjoy working with others and pair programming was a significant component of the Makers Academy program where I paired with a colleague on a challenge every afternoon. </li>
+    <li> I am careful to curate a positive team atmosphere by being an effective communicator and listener, setting and achieving clear goals, being open minded to others ideas, being attentive and supporting my team members as much as possible. </li>
+    <li> [I documented my personal do's and dont's of pair programming here.](https://github.com/hiboabd/makers_learning_journey/blob/master/weekly-objectives/week-one/pair_programming.md) </li>
+</ul>
+</p>
+</details>
 
 ## Education
 
