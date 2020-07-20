@@ -123,6 +123,18 @@ My immediate goal is to secure a position at a company where I can continue to g
 - Achieved a 1st in the Computing for Psychologists module.
 - Built a program using Python that conducts the Balloon Analogue Risk Task (BART) (a computerised measure of risk taking behaviour).
 
+#### Dartford Grammar School for Boys (Sept 2013 – May 2015)
+
+- International Baccalaureate – Achieved a score of 41 (out of a possible 45)
+- Higher Level Grades – Psychology – 7, Biology – 6, Chemistry – 5 
+- Standard Level Grades – Mathematics Studies – 7, English – 7, Chinese (Mandarin) – 6
+
+#### Bexleyheath Academy (Sept 2008– June 2013)        
+
+- 7 GCSE Grades (B grade or above)– including Maths – A, English Language – A, Biology – A
+- 2 BTEC Qualifications – Business Studies – Distinction*, IT – Distinction*
+
+
 ## Experience
 
 #### YouthSight
