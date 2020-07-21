@@ -7,8 +7,8 @@
 [![profile](https://img.shields.io/badge/-Profile-red?style=for-the-badge)](#profile)
 [![projects](https://img.shields.io/badge/-Projects-red?style=for-the-badge)](#projects)
 [![skills](https://img.shields.io/badge/-Skills-red?style=for-the-badge)](#skills)
-[![education](https://img.shields.io/badge/-Education-red?style=for-the-badge)](#education)
 [![experience](https://img.shields.io/badge/-Experience-red?style=for-the-badge)](#experience)
+[![education](https://img.shields.io/badge/-Education-red?style=for-the-badge)](#education)
 [![hobbies](https://img.shields.io/badge/-Hobbies-red?style=for-the-badge)](#hobbies)
 
 </div>
@@ -63,7 +63,7 @@ My immediate goal is to secure a position at a company where I can continue to g
 *Graduate Research Executive (June 2018 - July 2019)*
 *Research Executive (July 2019 - March 2020)*
 
-- Delivered 15 pitches and debrief presentations for clients including BBC, Unite Students and NCS.
+- Delivered 15 pitches and debrief presentations for clients including <a href="https://www.bbc.co.uk/">BBC</a>, <a href="https://www.unitestudents.com/">Unite Students</a> and <a href="https://wearencs.com/">NCS</a>.
 - Led the management of 5 projects and assisted the delivering of more than 50 projects. This involved client management, quantitative and qualitative fieldwork and analysing the data for reports, briefings and presentations.
 - Designed 20 digital eBooks, reports and videos delivering cutting edge research on Generation Z and led to webinars with approximately 100 attendees. Example: How Gen Z will change the world ebook series by YouthSight.
     - Examples: ['Gen Z: Exile on Mainstream?'](https://ipa.co.uk/knowledge/publications-reports/gen-z-exile-on-mainstream) by the Institute of Practisioners of Advertising.
@@ -106,7 +106,7 @@ As a research executive at YouthSight, I was entrusted to manage a number of pro
 <ul>
     <li> I pride myself on being a clear communicator. Below is some feedback I've received on my communication skills following a technical review.</li>
     <li> <i><q>Your verbalisation really underscores your understanding and reasoning really well</q></i> </li>
-    <li> <i><q>You walked me through the logic of your program before running it in Rspec and gave me insights into the different ways of
+    <li> <i><q>You walked me through the logic of your program before running it in RSpec and gave me insights into the different ways of
         approaching the program that you were considering</q></i> </li>
     <li> I designed ebooks that contributed to the growth of conversions on the YouthSight eNewsletter. The <a href="https://www.youthsight.com/blog/how-gen-z-will-change-the-world-vol-one">How Gen Z will change the world</a> ebook series I designed was so popular that it led to a webinar with approximately 100 attendees. </li>
     <li> I also delivered pitches to the BBC and NCS, where both projects were subsequently commissioned. In the case of NCS, the project was repeat commissioned for 3 years.</li> 
@@ -137,7 +137,7 @@ As a research executive at YouthSight, I was entrusted to manage a number of pro
 - Independent learner and problem-solver
 - Experience with MVC framework patterns 
 
-#### Code First:Girls (October 2019 to December 2019)
+#### Code First Girls (October 2019 to December 2019)
 
 - Completed the [Introduction to Web Development](https://codefirstgirls.org.uk/learners/intro-to-web-development/) 8 week part time course.
 - Learnt the fundamentals skills of front end development (HTML, CSS & JavaScript).
@@ -145,7 +145,7 @@ As a research executive at YouthSight, I was entrusted to manage a number of pro
 
 #### University College London (September 2015 to June 2018)
 
-- Bsc Psychology, 1st class Honors.
+- BSc Psychology, 1st class Honors.
 - Achieved a 1st in the Computing for Psychologists module.
 - Built a program using Python that conducts the Balloon Analogue Risk Task (BART) (a computerised measure of risk taking behaviour).
 
