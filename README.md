@@ -56,6 +56,19 @@ My immediate goal is to secure a position at a company where I can continue to g
 |**Technology**| Javascript, Ruby   | React | Express |MongoDB, PostgreSQL | Rspec, Jasmine, Jest | Cypress | Jest, Rubocop | Travis | Netlify, Heroku | CSS |
 
 
+## Experience
+
+#### YouthSight
+
+*Graduate Research Executive (June 2018 - July 2019)*
+*Research Executive (July 2019 - March 2020)*
+
+- Delivered 15 pitches and debrief presentations for clients including BBC, Unite Students and NCS.
+- Led the management of 5 projects and assisted the delivering of more than 50 projects. This involved client management, quantitative and qualitative fieldwork and analysing the data for reports, briefings and presentations.
+- Designed 20 digital eBooks, reports and videos delivering cutting edge research on Generation Z and led to webinars with approximately 100 attendees. Example: How Gen Z will change the world ebook series by YouthSight.
+    - Examples: ['Gen Z: Exile on Mainstream?'](https://ipa.co.uk/knowledge/publications-reports/gen-z-exile-on-mainstream) by the Institute of Practisioners of Advertising.
+    - [How Gen Z will change the world](https://www.youthsight.com/blog/how-gen-z-will-change-the-world-vol-one) ebook series by YouthSight.
+
 
 ## Non-technical skills
 
@@ -147,19 +160,6 @@ As a research executive at YouthSight, I was entrusted to manage a number of pro
 - 7 GCSE Grades (B grade or above)– including Maths – A, English Language – A, Biology – A
 - 2 BTEC Qualifications – Business Studies – Distinction*, IT – Distinction*
 
-
-## Experience
-
-#### YouthSight
-
-*Graduate Research Executive (June 2018 - July 2019)*
-*Research Executive (July 2019 - March 2020)*
-
-- Delivered 15 pitches and debrief presentations for clients including BBC, Unite Students and NCS.
-- Led the management of 5 projects and assisted the delivering of more than 50 projects. This involved client management, quantitative and qualitative fieldwork and analysing the data for reports, briefings and presentations.
-- Designed 20 digital eBooks, reports and videos delivering cutting edge research on Generation Z and led to webinars with approximately 100 attendees. Example: How Gen Z will change the world ebook series by YouthSight.
-    - Examples: ['Gen Z: Exile on Mainstream?'](https://ipa.co.uk/knowledge/publications-reports/gen-z-exile-on-mainstream) by the Institute of Practisioners of Advertising.
-    - [How Gen Z will change the world](https://www.youthsight.com/blog/how-gen-z-will-change-the-world-vol-one) ebook series by YouthSight.
 
 ## Hobbies
 
