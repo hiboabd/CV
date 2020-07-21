@@ -35,8 +35,6 @@ I have recently completed training at [Makers Academy](https://makers.tech) (Lon
 
 My immediate goal is to secure a position at a company where I can continue to grow and improve myself both personally and professionally. I enjoy challenges and look forward to opportunities where I will be able to assume more responsibilities.
 
-**Tech Skills**: Ruby, Sinatra, HTML, CSS, JavaScript, Node.js, Express, React, MongoDB, PostgreSQL
-
 ## Projects
 
 | Project         | Description              | Tech Stack         | How to access  |
