@@ -139,7 +139,7 @@ As a research executive at YouthSight, I was entrusted to manage a number of pro
 
 - Completed the [Introduction to Web Development](https://codefirstgirls.org.uk/learners/intro-to-web-development/) 8 week part time course.
 - Learnt the fundamentals skills of front end development (HTML, CSS & JavaScript).
-- Built [ArtScape](https://github.com/roisinheron/Competition), a website that enables users to discover art events happening near them.
+- Built [ArtScape](https://roisinheron.github.io/Competition/index.html), a website that enables users to discover art events happening near them.
 
 #### University College London (September 2015 to June 2018)
 
