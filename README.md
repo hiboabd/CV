@@ -155,10 +155,9 @@ As a research executive at YouthSight, I was entrusted to manage a number of pro
 *Graduate Research Executive (June 2018 - July 2019)*
 *Research Executive (July 2019 - March 2020)*
 
-- Delivered campaign evaluations and ran online communities for clients including BBC, Tinder, Unite Students and NCS.
-- Provided actionable recommendations to help solve business problems.
-- Led the management of the subscription tracker, State of the Youth Nation. This involved managing quantitative fieldwork, SnapMe videos, proofing and publishing spotlight reports and pulling together the latest insights for our quarterly briefings.
-- Designed reports and ebooks delivering cutting edge research on Generation Z.
+- Delivered 15 pitches and debrief presentations for clients including BBC, Unite Students and NCS.
+- Led the management of 5 projects and assisted the delivering of more than 50 projects. This involved client management, quantitative and qualitative fieldwork and analysing the data for reports, briefings and presentations.
+- Designed 20 digital eBooks, reports and videos delivering cutting edge research on Generation Z and led to webinars with approximately 100 attendees. Example: How Gen Z will change the world ebook series by YouthSight.
     - Examples: ['Gen Z: Exile on Mainstream?'](https://ipa.co.uk/knowledge/publications-reports/gen-z-exile-on-mainstream) by the Institute of Practisioners of Advertising.
     - [How Gen Z will change the world](https://www.youthsight.com/blog/how-gen-z-will-change-the-world-vol-one) ebook series by YouthSight.
 
