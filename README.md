@@ -58,15 +58,22 @@ My immediate goal is to secure a position at a company where I can continue to g
 
 #### YouthSight
 
-*Graduate Research Executive (June 2018 - July 2019)*
 *Research Executive (July 2019 - March 2020)*
+*Graduate Research Executive (June 2018 - July 2019)*
 
 - Delivered 15 pitches and debrief presentations for clients including <a href="https://www.bbc.co.uk/">BBC</a>, <a href="https://www.unitestudents.com/">Unite Students</a> and <a href="https://wearencs.com/">NCS</a>.
 - Led the management of 5 projects and assisted the delivering of more than 50 projects. This involved client management, quantitative and qualitative fieldwork and analysing the data for reports, briefings and presentations.
 - Designed 20 digital eBooks, reports and videos delivering cutting edge research on Generation Z and led to webinars with approximately 100 attendees. Example: How Gen Z will change the world ebook series by YouthSight.
     - Examples: ['Gen Z: Exile on Mainstream?'](https://ipa.co.uk/knowledge/publications-reports/gen-z-exile-on-mainstream) by the Institute of Practisioners of Advertising.
     - [How Gen Z will change the world](https://www.youthsight.com/blog/how-gen-z-will-change-the-world-vol-one) ebook series by YouthSight.
+    
+#### Itza Media
 
+*Digital Education Research Intern (March 2018 - May 2018)*
+
+- Itza Media is a digital educational startup, producing personalised digital educational resources targeting learners aged 8-14 years old.
+- Evaluated and researching content, games, quizzes and multimedia that could feature as mobile content for the app.
+- Participated in production meetings and specifically the product production cycle.
 
 ## Non-technical skills
 
