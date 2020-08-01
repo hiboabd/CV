@@ -27,13 +27,19 @@
 
 ## Profile
 
-I am an ambitious, former market researcher looking for a challenging, friendly and collaborative work environment to progress as a junior developer.
-
+I am a go-getter with a curious mind, who likes to experiment with different perspectives and new challenges. I become a developer due to the unique combination of personal satisfaction, self development and creative expression it can fulfil. 
+ 
 After graduating from University College London with a first class degree in Psychology, I spent almost two years working as a Market Researcher for a youth research agency.
 
 I have recently completed training at [Makers Academy](https://makers.tech) (London's leading programming bootcamp), to make my dream of becoming a developer a reality.
 
-My immediate goal is to secure a position at a company where I can continue to grow and improve myself both personally and professionally. I enjoy challenges and look forward to opportunities where I will be able to assume more responsibilities.
+I wish to work for a mission-led and value driven company who are committed to bringing positive change. I hope to contribute to big projects as part of a fun, supportive team where I can learn from people of all walks of life.
+
+## Personal aim 
+
+I am committed to using my technical skills to increase accessibility and inclusivity in tech, particularly among BAME and Muslims. I blog about my tech journey (Twitter: @hibocodes, Dev.to: @hiboabd) and I mentor others to take their first steps towards a career in tech.
+
+I hope to get the support from the company I work for in doing this as its incredibly close to my heart.
 
 ## Projects
 
@@ -77,7 +83,9 @@ My immediate goal is to secure a position at a company where I can continue to g
 
 ## Non-technical skills
 
-#### Project Management
+I have developed transferable skills that are vital to success in a role as a Software Developer. In addition to the technical programming skills gained at Makers Academy, I believe this gives me a unique set of soft and hard skills that can add value to any organisation. This includes:
+
+#### Project management
 
 <details><summary>Click to read</summary>
 <p>
@@ -130,6 +138,8 @@ As a research executive at YouthSight, I was entrusted to manage a number of pro
 </ul>
 </p>
 </details>
+
+Other transferrable skills include: Critical thinking, Problem solving, Data analysis, Excellent customer service, Consultancy, Creating insightful reports. 
 
 ## Education
 
